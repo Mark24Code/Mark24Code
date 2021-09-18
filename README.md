@@ -23,7 +23,7 @@ class ME
       reading_📚
       coding_💻
       studying_rubylang💎
-      try_tobe_awesome🚀
+      be_awesome🚀
     end
   end
 end
