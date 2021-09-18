@@ -22,7 +22,8 @@ class ME
     while true
       reading_📚
       coding_💻
-      love_ruby💎_lang
+      studying_rubylang💎
+      try_tobe_awesome🚀
     end
   end
 end
