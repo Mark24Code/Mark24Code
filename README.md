@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```ruby
+
+class ME
+  def rencent_routline 
+    while true
+      reading_📚
+      coding_💻
+      love_ruby💎_lang
+    end
+  end
+end
+
+mark24code = ME.new
+
+mark24code.rencent_routline
+```
