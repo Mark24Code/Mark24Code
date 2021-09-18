@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 class ME
   def rencent_routline 
     while true
-      reading_📚
-      coding_💻
-      studying_rubylang💎
-      be_awesome🚀
+      reading #📚
+      coding #💻
+      studying_rubylang #💎
+      be_awesome #🚀
     end
   end
 end
