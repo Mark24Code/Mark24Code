@@ -32,3 +32,6 @@ mark24code = ME.new
 
 mark24code.rencent_routline
 ```
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mark24Code&show_icons=true&theme=dracula" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark24Code&hide=python,html&theme=dracula&layout=compact" />
