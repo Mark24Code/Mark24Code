@@ -12,12 +12,12 @@
 
 ## About Me
 
-- ⚛️ A frontend engineer at Bytedance now.
-- 💻 I’m currently working on Shanghai China.
+- 🖥 A frontend engineer at Bytedance now.
+- 📌 I’m currently working on Shanghai China.
 
 ## Contact
-📫 [mark.zhangyoung@gmail.com](mailto:mark.zhangyoung@gmail.com)
-
+- 📫 [mark.zhangyoung@gmail.com](mailto:mark.zhangyoung@gmail.com)
+- ✈️ [Telegram: @mark24code](https://t.me/mark24code)
 
 ## Some Languages and Tools I Use
 
