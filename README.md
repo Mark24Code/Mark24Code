@@ -13,7 +13,7 @@
 ## About Me
 
 - 🖥 A frontend engineer at Bytedance now.
-- 📌 I’m currently working on Shanghai China.
+- 🌍 I’m currently working on Shanghai China.
 
 ## Contact
 - 📫 [mark.zhangyoung@gmail.com](mailto:mark.zhangyoung@gmail.com)
