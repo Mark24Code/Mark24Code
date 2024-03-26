@@ -68,7 +68,7 @@
 | ------------- | ------------- |
 
 
-##  🖥 Work Experience
+## Work Experience
 
 | Company 💼 | Tenure ⏱️ | Responsibilities 👔 |
 |----|----|----|
@@ -78,5 +78,6 @@
 
 
 
-**Visitor count:**
+## Visitor count
+
 <img src="https://profile-counter.glitch.me/Mark24Code/count.svg" />
