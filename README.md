@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-
+<h2 align="center">This is Mark24Code</h2>
+<p align="center">
+  <a href="https://mark24code.github.io/">
+  Blog</a><span> · </span>
+  <a href="https://mark24code.github.io/about/">
+  About
+  </a>
+</p>
 
 <!--
 **Mark24Code/Mark24Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
